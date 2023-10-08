@@ -159,6 +159,8 @@ img {
 
 /* Footer */
 
+
+
 .footer {
     -premailer-cellpadding: 0;
     -premailer-cellspacing: 0;
@@ -287,4 +289,10 @@ img {
 
 .break-all {
     word-break: break-all;
+}
+
+/* Hand write css */
+
+.footer h2 {
+    text-align: center;
 }
